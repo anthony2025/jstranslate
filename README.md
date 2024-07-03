@@ -1,16 +1,16 @@
-# JStranslate
-Experimental scripts for a javascript keyword translation tool.
-
-## Dependencies
-Temporarily depending on Python and FB's Codemod: https://github.com/facebook/codemod
-```bash
-$ pip install -r requirements.txt
-```
+# Tongues
+Experimental scripts for a Javascript keyword translation tool.
 
 ## Translations
-JStranslate is primarily a pedagogic tool. The translations provided are meant for ease of understanding, and not as linguistical correct equivalences.
+Tongues is primarily a pedagogic tool. The translations provided are meant for ease of understanding, and not as linguistical correct equivalences.
+
+## Dependencies
+Depending on Facebook's Codeshift: https://github.com/facebook/codeshift
+```bash
+$ npm install
+```
 
 ## Running
 ```bash
-$ python run_codemod.py
+$ npm run
 ```
