@@ -1,4 +1,4 @@
-# Tongues
+# Tongues👅
 Experimental scripts for a Javascript keyword translation tool.
 
 ## Translations
