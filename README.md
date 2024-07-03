@@ -14,3 +14,6 @@ $ npm install
 ```bash
 $ npm run
 ```
+
+## Community
+Translations for other human languages are welcome, please open an issue/PR asking for help on how to contribute.
